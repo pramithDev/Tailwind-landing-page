@@ -2,6 +2,8 @@
 
 This is the project for practicing Tailwind CSS.
 
+Site URL - https://roaring-faloodeh-989070.netlify.app/
+
 ## Usage
 Install dependencies (Tailwind)
 ```
